@@ -1,4 +1,4 @@
-# How to prepare for a coding iSnterview
+# How to prepare for a coding interview
 
 1. Master Big O (space and time complexity)
 2. Pick your favorite language
