@@ -31,4 +31,4 @@ B.C.R. is not necessarily achievable...it's just not beatable
 1. Come up with a good example (large & generic), then figure out the output
 
 2. "Reverse engineer" your intuitive thought process
-3. Pay atention to any short circuiting or tricks you use
+3. Pay attention to any short circuiting or tricks you use
